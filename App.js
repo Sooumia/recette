@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import RecipeCard from './component/RecipeCard';
 
 const APP_ID = '19774';
-const APP_KEY = 'b02a6e7577a60b1e7090e8c88db0c0e5bf530f96';
+const APP_KEY = '339329abb5a04f8ebb76430e646b1578';
 
 const App = () => {
   const [recipes, setRecipes] = useState([]);
